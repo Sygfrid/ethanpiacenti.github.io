@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Grafana"
+title: "Visualisation des données"
 permalink: /grafana/
 ---
 
