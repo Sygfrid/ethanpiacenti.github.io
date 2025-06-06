@@ -18,6 +18,19 @@ permalink: /competences/
 ![Logo Cisco](/assets/images/cisco.jpg)
 
 ### 💼 Stage
-- Stage chez [Nom de l’entreprise] (2024)
-  - Réalisation d’un site vitrine
-  - Intégration d’une API météo
+- Stage à la DSI de la commune de Marignane (Avril-Juin 2025)
+  - Création de la supervision de la commune.
+  - Interface graphique pour l'affichage des données importantes.
+  - Conception et Création et d'un Bastion renforçant la sécurité
+ 
+### [Zabbix](../zabbix/)
+- Supervision d’infrastructure réseau avec Zabbix
+- Alertes, dashboards, templates personnalisés
+
+### [Grafana](../grafana/)
+- Visualisation de métriques avec Grafana.
+- Dashboards pour le monitoring serveur.
+
+### [Teleport](../teleport/)
+- Mise en place d'acccès sécurisés sur les serveurs.
+- Authentification MFA par technicien.
