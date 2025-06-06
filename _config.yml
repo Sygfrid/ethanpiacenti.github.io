@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Mon Portfolio
 description: "Bonjour ! Bienvenu sur mon Portfolio, je m'appelle Ethan Piacenti"
-twitter_username: username
+baseurl: ""
 github_username: Sygfrid
 minimal_mistakes_skin: default
 search: true
