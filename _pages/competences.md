@@ -14,8 +14,8 @@ permalink: /competences/
 ## 🎓 Parcours
 
 ### 🎒 Formation
-- DUT Informatique – IUT de [ta ville] (2022-2024)
-  - Apprentissage du développement web, algorithmique, etc.
+- BUT Réseau & Télécom – IUT de Luminy (2023-2026)
+![Logo Cisco](/assets/images/cisco.jpg)
 
 ### 💼 Stage
 - Stage chez [Nom de l’entreprise] (2024)
