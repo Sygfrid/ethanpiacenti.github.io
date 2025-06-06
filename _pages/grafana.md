@@ -16,8 +16,8 @@ Grafana est un outil de visualisation et d’analyse de données utilisé pour s
 Durant mon stage / projet, j'ai utilisé Grafana pour :
 
 - Créer des **dashboards** interactifs à partir de données système
-- Superviser des services comme **Zabbix**, **Prometheus**, ou des **bases de données**
-- Générer des **alertes en temps réel** et suivre les performances via des graphiques dynamiques
+- Superviser des services comme **Zabbix**
+- Utiliser les données de base pour afficher des graphiques de différents formes (gauge, graphes..)
 
 ---
 
@@ -33,8 +33,7 @@ Voici un aperçu de l’interface Grafana utilisée pour la supervision :
 
 - 🔌 Connexion de sources de données (Zabbix, Prometheus…)
 - 📈 Création de graphiques en temps réel
-- 🚨 Configuration d’alertes automatiques
-- 👨‍💻 Utilisation de requêtes personnalisées avec PromQL / InfluxQL
+- 🚨 Création de Dashboard pour analyser les problèmes
 
 ---
 
