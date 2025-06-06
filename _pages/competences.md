@@ -15,6 +15,7 @@ permalink: /competences/
 
 ### 🎒 Formation
 - BUT Réseau & Télécom – IUT de Luminy (2023-2026)
+
 ![Logo Cisco](/assets/images/cisco.jpg)
 
 ### 💼 Stage
