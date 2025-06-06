@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mon Portfolio
-description: "Bonjour ! Bienvenu sur mon Portfolion, je m'appelle Ethan Piacenti"
+description: "Bonjour ! Bienvenu sur mon Portfolio, je m'appelle Ethan Piacenti"
 twitter_username: username
 github_username: Sygfrid
 minimal_mistakes_skin: default
@@ -56,32 +56,29 @@ plugins:
 author:
   name   : "Piacenti Ethan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Etudiant en deuxième année de BUT Réseau&Télécom"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://sygfrid.github.io/ethanpiacenti.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/ethan.pci"
+    - label: "Linkedin"
+      icon: "afb fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ethan-piacenti/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://sygfrid.github.io/ethanpiacenti.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/ethan.pci"
+    - label: "Linkedin"
+      icon: "afb fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ethan-piacenti/"
 
 defaults:
   # _posts
