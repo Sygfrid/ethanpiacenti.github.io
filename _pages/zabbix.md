@@ -4,7 +4,7 @@ title: "Supervision avec Zabbix"
 permalink: /zabbix/
 ---
 
-![Logo Zabbix](/assets/images/zabbix logo.jpg)
+![Logo Zabbix](/assets/images/zabbix.jpg)
 
 ## Présentation
 
