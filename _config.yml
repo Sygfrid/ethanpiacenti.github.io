@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mon Portfolio
-url: "https://ethanpiacenti.github.io"
 description: "Bonjour ! Bienvenu sur mon Portfolion, je m'appelle Ethan Piacenti"
 twitter_username: username
 github_username: Sygfrid
