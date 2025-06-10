@@ -4,7 +4,7 @@ title: "About"
 permalink: /contact/
 author_profile: true
 classes: wide
-nav: main
+nav: fr
 ---
 
 Vous pouvez me contacter ici : 

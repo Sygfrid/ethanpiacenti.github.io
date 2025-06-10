@@ -3,8 +3,9 @@ layout: single
 title: "Supervision avec Zabbix"
 permalink: /zabbix/
 classes: wide
-nav: main
+nav: fr
 ---
+
 ![Logo Zabbix]({{ site.baseurl }}/assets/images/zabbix.jpg)
 
 # 📡 Zabbix

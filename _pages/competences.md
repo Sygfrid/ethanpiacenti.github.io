@@ -3,7 +3,7 @@ layout: single
 title: "🛠️ Mes compétences"
 permalink: /competences/
 classes: wide
-nav: main
+nav: fr
 ---
 
 ## 🎓 Mon parcours

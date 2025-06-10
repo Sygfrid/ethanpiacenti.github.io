@@ -3,7 +3,7 @@ layout: single
 title: "Teleport"
 permalink: /teleport/
 classes: wide
-nav: main
+nav: fr
 ---
 
 # 🔐 Teleport

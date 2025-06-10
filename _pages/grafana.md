@@ -3,7 +3,7 @@ layout: single
 title: "Visualisation des données"
 permalink: /grafana/
 classes: wide
-nav: main
+nav: fr
 ---
 
 # 📊 Grafana
