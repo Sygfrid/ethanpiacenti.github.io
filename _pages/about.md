@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About"
-permalink: /about/
+permalink: /contact/
 author_profile: true
 classes: wide
 nav: main
