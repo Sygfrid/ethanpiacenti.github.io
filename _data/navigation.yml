@@ -5,3 +5,10 @@ main:
     url: /competences/
   - title: "A Propos"
     url: /about/
+en: 
+  - title: "Home"
+    url: /en/
+  - title: "Skills"
+    url: /en/skills/
+  - title: "About"
+    url: /en/about/
