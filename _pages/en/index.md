@@ -2,7 +2,7 @@
 layout: splash
 title: "Welcome on my portfolio" 
 permalink: /en/
-nav: en
+nav:en
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -10,12 +10,11 @@ header:
 excerpt: "Computer science Student — Portfolio of my skills and projects"
 ---
 
-# 👋 Salut, moi c’est Ethan
+# 👋 Hi, I'm Ethan
 
-Bienvenue sur mon portfolio !
+Welcome to my portfolio!
 
-Je suis étudiant en BUT Réseaux & Télécommunications à l’IUT de Luminy.  
-J’ai conçu ce site pour présenter mes **projets techniques**, **compétences en réseau**, et **expériences pratiques** acquises pendant ma formation et mon stage.
+I'm a student in Networks & Telecommunications at the IUT of Luminy.
+I created this site to showcase my technical projects, networking skills, and hands-on experience gained during my studies and internship.
 
-Explore les sections pour découvrir ce que je sais faire !
-
+Explore the sections to discover what I can do.
