@@ -4,8 +4,6 @@ title: "Mes compétences"
 permalink: /competences/
 ---
 
-# 🛠️ Mes compétences
-
 ## 🎓 Mon parcours
 
 Au cours de ma formation en BUT Réseaux & Télécommunications à l'IUT de Luminy, j’ai acquis des compétences solides en réseaux, notamment à travers la configuration d’équipements **Cisco**, la découverte de la programmation et de la protection d'un système.
