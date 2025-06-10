@@ -8,7 +8,7 @@ main:
   - title: "🇬🇧"
     url: /en/
     
-en: 
+main: 
   - title: "Home"
     url: /en/
   - title: "Skills"
