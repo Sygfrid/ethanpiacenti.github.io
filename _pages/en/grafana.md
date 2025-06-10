@@ -52,5 +52,5 @@ Voici un aperçu de l’interface Grafana utilisée pour la supervision :
 
 ---
 
-[⬅ Retour à mes projets]({{ '/competences/' | relative_url }})
+[⬅ Retour à mes projets]({{ '/en/skills/' | relative_url }})
 
