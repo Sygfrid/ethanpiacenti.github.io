@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "🛠️ My skills"
-permalink: /en/skills/
+permalink: /skills/
 classes: wide
 nav: en
 ---
@@ -42,15 +42,15 @@ Je me prépare actuellement à entrer en **3e année en alternance**, afin de co
   - Interface graphique pour l'affichage des données importantes.
   - Conception et Création et d'un Bastion renforçant la sécurité
  
-### [Zabbix](../en/zabbix/)
+### [Zabbix](../zabbix-en/)
 - Supervision d’infrastructure réseau avec Zabbix
 - Alertes, dashboards, templates personnalisés
 
-### [Grafana](../en/grafana/)
+### [Grafana](../grafana-en/)
 - Visualisation de métriques avec Grafana.
 - Dashboards pour le monitoring serveur.
 
-### [Teleport](../en/teleport/)
+### [Teleport](../teleport-en/)
 - Mise en place d'acccès sécurisés sur les serveurs.
 - Authentification MFA par technicien.
 
