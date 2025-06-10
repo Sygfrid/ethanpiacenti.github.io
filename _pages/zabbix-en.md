@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Supervision avec Zabbix"
-permalink: /en/zabbix/
+permalink: /zabbix-en/
 classes: wide
 ---
 ![Logo Zabbix]({{ site.baseurl }}/assets/images/zabbix.jpg)

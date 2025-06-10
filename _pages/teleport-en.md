@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teleport"
-permalink: /en/teleport/
+permalink: /teleport-en/
 classes: wide
 nav: en
 ---

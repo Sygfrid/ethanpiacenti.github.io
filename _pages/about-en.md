@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "À propos"
-permalink: /en/about/
+permalink: /about-en/
 author_profile: true
 classes: wide
 nav: en
