@@ -43,6 +43,10 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+#navigation
+navigation: 
+  enabled: true
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
