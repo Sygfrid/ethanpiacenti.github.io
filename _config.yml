@@ -95,6 +95,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -102,14 +103,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-      nav: main
+
+  # Navigation pour les pages anglaises
   - scope:
-      path: "en"
+      path: "_pages/en"
       type: pages
     values:
       nav: en
-      layout: single
-      author_profile: true
 
 category_archive:
   type: liquid
