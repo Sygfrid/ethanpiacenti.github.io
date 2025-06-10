@@ -3,50 +3,51 @@ layout: single
 title: "Teleport"
 permalink: /en/teleport/
 classes: wide
+nav: en
 ---
 
 # 🔐 Teleport
 
-**Teleport** est une plateforme d'accès sécurisé permettant de gérer l’authentification, les connexions SSH, RDP, Kubernetes ou base de données, avec un contrôle centralisé.
+**Teleport** is a secure access platform that enables centralized management of authentication, SSH, RDP, Kubernetes, and database connections.
 
-![Interface Teleport]({{ site.baseurl }}/assets/images/teleport.jpg)
-
----
-
-## 🧠 Pourquoi Teleport ?
-
-Pendant mon projet/stage, j’ai utilisé Teleport pour :
-
-- Centraliser les connexions SSH à distance
-- Sécuriser l’accès aux serveurs
-- Tracer et enregistrer les connexions utilisateurs
-- Mettre en place un **SSO (Single Sign-On)**
+![Teleport Interface]({{ site.baseurl }}/assets/images/teleport.jpg)
 
 ---
 
-## ⚙️ Ce que j’ai mis en place
+## 🧠 Why Teleport?
 
-- 🔐 Mise en place du **serveur Teleport**
-- 🧾 Configuration des rôles et autorisations
-- 🧪 Tests d’accès multi-utilisateur
-- 📜 Suivi des journaux de connexion et sessions
+During my project/internship, I used Teleport to:
+
+- Centralize remote SSH connections
+- Secure server access
+- Track and record user connections
+- Implement **SSO (Single Sign-On)**
 
 ---
 
-## 🧩 Technologies associées
+## ⚙️ What I Set Up
+
+- 🔐 Deployment of the **Teleport server**
+- 🧾 Configuration of roles and permissions
+- 🧪 Multi-user access testing
+- 📜 Monitoring of connection and session logs
+
+---
+
+## 🧩 Related Technologies
 
 - **Linux (SSH)**
 - **Docker**
 - **Windows (RDP)**
-- **Certificats TLS**
+- **TLS Certificates**
 
 ---
 
-## 💡 Ce que j’ai appris
+## 💡 What I Learned
 
-> “Grâce à Teleport, j’ai découvert comment renforcer la sécurité d’un parc de machines tout en facilitant l’accès pour les administrateurs système.”
+> “Thanks to Teleport, I learned how to strengthen the security of a fleet of machines while making access easier for system administrators.”
 
 ---
 
-[⬅ Retour à mes projets]({{ '/en/skills/' | relative_url }})
+[⬅ Back to my projects]({{ '/en/skills/' | relative_url }})
 
