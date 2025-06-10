@@ -4,14 +4,32 @@ title: "Mes compétences"
 permalink: /competences/
 ---
 
+# 🛠️ Mes compétences
+
+## 🎓 Mon parcours
+
+Au cours de ma formation en BUT Réseaux & Télécommunications à l'IUT de Luminy, j’ai acquis des compétences solides en réseaux, notamment à travers la configuration d’équipements **Cisco**, la découverte de la programmation et de la protection d'un système.
+
+Je me prépare actuellement à entrer en **3e année en alternance**, afin de consolider mes acquis techniques et les appliquer en entreprise.
+
+---
+
 ## 🔧 Compétences techniques
 
-- HTML / CSS / JavaScript
-- Python, Java
-- Git / GitHub
-- Notions en React, Node.js
+### 🌐 Développement
 
-## 🎓 Parcours
+- Python, Bash
+- Git / GitHub
+
+### 🖥️ Réseaux & Systèmes
+
+- Configuration de routeurs & switchs Cisco, Aruba
+- VLAN, routage statique/dynamique, DHCP, DNS
+- Virtualisation (VirtualBox, vSphere)
+- Linux (Debian, Ubuntu)
+- Windows (Intune, Active Directory)
+
+---
 
 ### 🎒 Formation
 - BUT Réseau & Télécom – IUT de Luminy (2023-2026)
@@ -35,3 +53,15 @@ permalink: /competences/
 ### [Teleport](../teleport/)
 - Mise en place d'acccès sécurisés sur les serveurs.
 - Authentification MFA par technicien.
+
+---
+
+## 🧠 Compétences transversales
+
+- Travail en équipe (projets tutorés, binômes, projets)
+- Documentation technique
+- Présentation orale & synthèse
+
+---
+
+[⬅ Retour à l'accueil]({{ '/' | relative_url }})
