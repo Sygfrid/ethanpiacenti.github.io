@@ -8,8 +8,8 @@ classes: wide
 
 Tu peux me contacter ici :
 
-- 📧 Email : [ethan.piacenti@gmail.com](mailto:ton.email@email.com)
-- 💼 LinkedIn : [Ethan Piacenti](https://www.linkedin.com/in/tonprofil/)
-- 🐙 GitHub : [github.com/Sygfrid](https://github.com/tonpseudo)
+- 📧 Email : [ethan.piacenti@gmail.com](mailto:ethan.piacenti@gmail.com)
+- 💼 LinkedIn : [Ethan Piacenti](https://www.linkedin.com/in/ethan-piacenti/)
+- 🐙 GitHub : [github.com/Sygfrid](https://github.com/Sygfrid)
 
 Merci d'avoir visité mon portfolio 🙌
