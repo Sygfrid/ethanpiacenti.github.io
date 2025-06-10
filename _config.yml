@@ -30,7 +30,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _pages/en
+  - _pages/en/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -108,7 +108,7 @@ defaults:
 
   # Navigation pour les pages anglaises
   - scope:
-      path: "/en"
+      path: "/en/"
       type: pages
     values:
       layout: single
