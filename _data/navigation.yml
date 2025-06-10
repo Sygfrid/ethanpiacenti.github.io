@@ -1,7 +1,7 @@
 main:
-  - title: "Acceuil"
+  - title: "Accueil"
     url: /
-  - title: "Competences"
+  - title: "Compétences"
     url: /competences/
   - title: "A Propos"
     url: /about/
