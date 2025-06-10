@@ -5,6 +5,8 @@ main:
     url: /competences/
   - title: "A Propos"
     url: /about/
+  - title: "🇬🇧"
+    url: /en/
 en: 
   - title: "Home"
     url: /en/
@@ -12,3 +14,5 @@ en:
     url: /en/skills/
   - title: "About"
     url: /en/about/
+  - title: "🇫🇷"
+    url: /
