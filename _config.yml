@@ -108,7 +108,7 @@ defaults:
 
   # Navigation pour les pages anglaises
   - scope:
-      path: "/_pages/en"
+      path: "_pages/en"
       type: pages
     values:
       layout: single
