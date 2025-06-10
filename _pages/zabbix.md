@@ -52,6 +52,10 @@ Cela m’a permis de :
 
 ## 🖼️ Interface Zabbix
 
+Mon Dashboard principal :
+
+![Dashboard Zabbix]({{ site.baseurl }}/assets/images/dashboardz.png)
+
 ---
 
 [⬅ Retour à mes projets]({{ '/competences/' | relative_url }})
