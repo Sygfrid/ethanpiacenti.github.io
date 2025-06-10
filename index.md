@@ -9,9 +9,11 @@ header:
 excerpt: "Étudiant en informatique — Portfolio de mes projets et compétences"
 ---
 
-# Salut !
+# 👋 Salut, moi c’est Ethan
 
-Bienvenue sur mon portfolio.  
-Je l’ai créé pour partager mon parcours, mes compétences, et mes projets réalisés pendant mes études et mon stage.
+Bienvenue sur mon portfolio !
 
-Explore les autres sections pour en savoir plus !
+Je suis étudiant en BUT Réseaux & Télécommunications à l’IUT de Luminy.  
+J’ai conçu ce site pour présenter mes **projets techniques**, **compétences en réseau**, et **expériences pratiques** acquises pendant ma formation et mon stage.
+
+Explore les sections pour découvrir ce que je sais faire !
