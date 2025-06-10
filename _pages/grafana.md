@@ -2,6 +2,7 @@
 layout: single
 title: "Visualisation des données"
 permalink: /grafana/
+classes: wide
 ---
 
 # 📊 Grafana
