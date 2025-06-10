@@ -2,6 +2,7 @@
 layout: single
 title: "Teleport"
 permalink: /teleport/
+classes: wide
 ---
 
 # 🔐 Teleport
