@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Welcome on my portfolio" 
-permalink: /home
+permalink: /home/
 lang: en  
 nav: en
 header:
