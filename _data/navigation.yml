@@ -6,7 +6,7 @@ main:
   - title: "A Propos"
     url: /about/
   - title: "🇬🇧"
-    url: /en/
+    url: /en/home
     
 en: 
   - title: "Home"
