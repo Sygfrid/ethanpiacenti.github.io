@@ -1,18 +1,7 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Configuration principale du site
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Mon Portfolio
 description: "Bonjour ! Bienvenu sur mon Portfolio, je m'appelle Ethan Piacenti"
 github_username: Sygfrid
@@ -22,30 +11,26 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 10
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:
 
 include:
   - _pages
   - _pages/en
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-#navigation
-navigation: 
+# Navigation multilingue
+navigation:
   enabled: true
   main:
     - title: "Accueil"
@@ -55,8 +40,8 @@ navigation:
     - title: "A Propos"
       url: /about/
     - title: "🇬🇧"
-      url: /en/  
-  en: 
+      url: /en/
+  en:
     - title: "Home"
       url: /en/
     - title: "Skills"
@@ -65,15 +50,8 @@ navigation:
       url: /en/about/
     - title: "🇫🇷"
       url: /
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
 
+# Auteur
 author:
   name   : "Piacenti Ethan"
   avatar : "/assets/images/bio-photo.jpg"
@@ -89,6 +67,7 @@ author:
       icon: "afb fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ethan-piacenti/"
 
+# Pied de page
 footer:
   links:
     - label: "GitHub"
@@ -101,8 +80,8 @@ footer:
       icon: "afb fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ethan-piacenti/"
 
+# Defaults : pour appliquer les bons layouts et menus selon le dossier
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -114,7 +93,6 @@ defaults:
       share: true
       related: true
 
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -123,7 +101,6 @@ defaults:
       author_profile: true
       nav: main
 
-  # Navigation pour les pages anglaises
   - scope:
       path: "_pages/en"
       type: pages
@@ -132,6 +109,7 @@ defaults:
       author_profile: true
       nav: en
 
+# Archives
 category_archive:
   type: liquid
   path: /categories/
