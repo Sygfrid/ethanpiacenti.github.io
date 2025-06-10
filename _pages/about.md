@@ -1,16 +1,16 @@
 ---
 layout: single
-title: "À propos"
+title: "About"
 permalink: /about/
 author_profile: true
 classes: wide
 nav: main
 ---
 
-Tu peux me contacter ici :
+You can contact me here : 
 
 - 📧 Email : [ethan.piacenti@gmail.com](mailto:ethan.piacenti@gmail.com)
 - 💼 LinkedIn : [Ethan Piacenti](https://www.linkedin.com/in/ethan-piacenti/)
 - 🐙 GitHub : [github.com/Sygfrid](https://github.com/Sygfrid)
 
-Merci d'avoir visité mon portfolio 🙌
+Thanks for visiting my portfolio 🙌
