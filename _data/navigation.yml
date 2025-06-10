@@ -8,12 +8,4 @@ main:
   - title: "🇬🇧"
     url: /home/
     
-en: 
-  - title: "Home"
-    url: /home/
-  - title: "Skills"
-    url: /skills/
-  - title: "About"
-    url: /about/
-  - title: "🇫🇷"
-    url: /
+
