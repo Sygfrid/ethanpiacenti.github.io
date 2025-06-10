@@ -10,9 +10,9 @@ main:
     
 en: 
   - title: "Home"
-    url: /home
+    url: /home/
   - title: "Skills"
-    url: /skills
+    url: /skills/
   - title: "About"
     url: /about/
   - title: "🇫🇷"
