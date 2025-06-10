@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mes compétences"
+title: "🛠️ Mes compétences"
 permalink: /competences/
 ---
 
