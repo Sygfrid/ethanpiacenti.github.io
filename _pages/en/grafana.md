@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Visualisation des données"
-permalink: /grafana/
+permalink: /en/grafana/
 classes: wide
+nav: en
 ---
 
 # 📊 Grafana
