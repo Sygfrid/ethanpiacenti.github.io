@@ -26,9 +26,9 @@ Durant mon stage / projet, j'ai utilisé Grafana pour :
 
 Voici un aperçu de l’interface Grafana utilisée pour la supervision :
 
-![Dashboard1]({{ site.baseurl }}/assets/images/graph1.jpg)
+![Dashboard1]({{ site.baseurl }}/assets/images/graph1.png)
 
-![Dashboard2]({{ site.baseurl }}/assets/images/graph2.jpg)
+![Dashboard2]({{ site.baseurl }}/assets/images/graph2.png)
 
 ---
 
