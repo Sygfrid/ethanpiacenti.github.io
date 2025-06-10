@@ -37,7 +37,7 @@ Pendant mon projet/stage, j’ai utilisé Teleport pour :
 
 - **Linux (SSH)**
 - **Docker**
-- **Cloud ou VPS**
+- **Windows (RDP)**
 - **Certificats TLS**
 
 ---
