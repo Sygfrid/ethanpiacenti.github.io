@@ -7,10 +7,10 @@ classes: wide
 nav: en
 ---
 
-Tu peux me contacter ici :
+You can contact me here :
 
 - 📧 Email : [ethan.piacenti@gmail.com](mailto:ethan.piacenti@gmail.com)
 - 💼 LinkedIn : [Ethan Piacenti](https://www.linkedin.com/in/ethan-piacenti/)
 - 🐙 GitHub : [github.com/Sygfrid](https://github.com/Sygfrid)
 
-Merci d'avoir visité mon portfolio 🙌
+Thank you for visiting my portfolio 🙌
