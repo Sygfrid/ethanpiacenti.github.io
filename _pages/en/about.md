@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "À propos"
-permalink: /about/
+permalink: /en/about/
 author_profile: true
 classes: wide
+nav: en
 ---
 
 Tu peux me contacter ici :
