@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Welcome on my portfolio" 
-permalink: /en/home
+permalink: /en/
 nav: en
 header:
   overlay_color: "#000"
