@@ -47,7 +47,25 @@ include:
 #navigation
 navigation: 
   enabled: true
-
+main:
+  - title: "Accueil"
+    url: /
+  - title: "Compétences"
+    url: /competences/
+  - title: "A Propos"
+    url: /about/
+  - title: "🇬🇧"
+    url: /en/
+    
+en: 
+  - title: "Home"
+    url: /en/
+  - title: "Skills"
+    url: /en/skills/
+  - title: "About"
+    url: /en/about/
+  - title: "🇫🇷"
+    url: /
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
