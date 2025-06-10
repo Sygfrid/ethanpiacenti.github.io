@@ -2,6 +2,7 @@
 layout: splash
 title: "Welcome on my portfolio" 
 permalink: /en/
+nav: en
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
