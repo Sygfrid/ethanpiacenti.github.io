@@ -1,0 +1,19 @@
+menu_items:
+  fr:
+    - label: Accueil
+      path: /
+    - label: Compétences
+      path: /competences/
+    - label: À propos
+      path: /contact/
+    - label: "🇬🇧"
+      path: /home/
+  en:
+    - label: Home
+      path: /home/
+    - label: Skills
+      path: /skills/
+    - label: About
+      path: /about/
+    - label: "🇫🇷"
+      path: /
