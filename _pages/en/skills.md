@@ -3,6 +3,7 @@ layout: single
 title: "🛠️ My skills"
 permalink: /en/skills/
 classes: wide
+nav: en
 ---
 
 ## 🎓 Mon parcours
