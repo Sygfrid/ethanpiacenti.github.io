@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: "Bienvenue sur mon portfolio" 
+title: "Welcome on my portfolio" 
 permalink: /en/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero.jpg
-excerpt: "Étudiant en informatique — Portfolio de mes projets et compétences"
+excerpt: "Computer science Student — Portfolio of my skills and projects"
 ---
 
 # 👋 Salut, moi c’est Ethan
