@@ -97,23 +97,7 @@ defaults:
       share: true
       related: true
 
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      nav: main
 
-  # Navigation pour les pages anglaises
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      nav: en
 
 category_archive:
   type: liquid
