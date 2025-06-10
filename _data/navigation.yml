@@ -10,7 +10,7 @@ main:
     
 en: 
   - title: "Home"
-    url: /en/home
+    url: /en/
   - title: "Skills"
     url: /en/skills/
   - title: "About"
