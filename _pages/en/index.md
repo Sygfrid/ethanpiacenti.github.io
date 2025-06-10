@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Bienvenue sur mon portfolio"
+title: "Bienvenue sur mon portfolio" 
 permalink: /en/
 header:
   overlay_color: "#000"
