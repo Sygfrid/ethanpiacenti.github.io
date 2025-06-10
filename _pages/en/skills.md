@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "🛠️ Mes compétences"
-permalink: /competences/
+title: "🛠️ My skills"
+permalink: /en/skills/
 classes: wide
 ---
 
