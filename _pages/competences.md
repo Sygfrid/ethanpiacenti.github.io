@@ -2,6 +2,7 @@
 layout: single
 title: "🛠️ Mes compétences"
 permalink: /competences/
+author_profile: true
 classes: wide
 nav: fr
 ---

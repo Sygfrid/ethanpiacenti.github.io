@@ -2,6 +2,7 @@
 layout: single
 title: "Teleport"
 permalink: /teleport/
+author_profile: true
 classes: wide
 nav: fr
 ---

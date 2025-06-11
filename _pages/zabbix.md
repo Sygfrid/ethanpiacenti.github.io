@@ -2,6 +2,7 @@
 layout: single
 title: "Supervision avec Zabbix"
 permalink: /zabbix/
+author_profile: true
 classes: wide
 nav: fr
 ---

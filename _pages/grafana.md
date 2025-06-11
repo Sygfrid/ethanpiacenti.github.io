@@ -2,6 +2,7 @@
 layout: single
 title: "Visualisation des données"
 permalink: /grafana/
+author_profile: true
 classes: wide
 nav: fr
 ---

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mon Portfolio
+title: Ethan Piacenti
 description: "Bonjour ! Bienvenu sur mon Portfolio, je m'appelle Ethan Piacenti"
 github_username: Sygfrid
 minimal_mistakes_skin: default
@@ -64,7 +64,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://sygfrid.github.io/ethanpiacenti.github.io/"
+      url: "https://github.com/Sygfrid"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ethan.pci"
@@ -76,7 +76,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://sygfrid.github.io/ethanpiacenti.github.io/"
+      url: "https://github.com/Sygfrid"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ethan.pci"
