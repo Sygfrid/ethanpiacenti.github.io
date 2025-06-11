@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "Contact"
 permalink: /contact/
 author_profile: true
 classes: wide
